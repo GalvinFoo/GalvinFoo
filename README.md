@@ -8,14 +8,6 @@
 [![GalvinFoo GitHub languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalvinFoo&size_weight=0.5&count_weight=0.5&layout=donut-vertical&theme=noctis_minimus&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 ![GalvinFoo GitHub stats](https://github-readme-stats.vercel.app/api?username=GalvinFoo&show_icons=true&theme=noctis_minimus)
 
-TODO: add Go and C(++) in here
-
-
-### FAQ
-<details>
-  <summary>What/why the username?</summary>
-  Gavin is a English name that came up as a casual joke during work, and I do like its etymology. Also seems more professional than using my 'gaming' username to potential employers.
-</details>
 
 <!--
 **Zaptros/Zaptros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
